@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <ctype.h>
-//pag 354
+#include <stdio.h>   // Esto lo copiaste de algún lado
+#include <ctype.h>  // la idea es que lo piensen uds. para que aprendan
+//pag 354           // No es como se pedía. Y tampoco me lo podrías explicar
 void analizar_linea(char linea [],int*pv, int*pc,int*pd, int*pb, int*po);
  int main()
  {
